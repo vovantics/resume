@@ -18,17 +18,25 @@
   "work": [
     {
       "company": "Greater Known",
-      "position": "Founder",
+      "position": "Product Engineer / Consultant",
       "website": "http://greaterknown.com",
-      "startDate": "2016-010-01",
+      "startDate": "2016-12-01",
       "summary": "Software consulting and development for various clients."
+    },
+    {
+      "company": "Clearbanc",
+      "position": "Co-Founder",
+      "website": "http://clearbanc.com",
+      "startDate": "2015-08-01",
+      "endDate": "2016-11-31",
+      "summary": "Building a bank for freelancers, independent contractors, and entrepreneurs."
     },
     {
       "company": "Lights On Software",
       "position": "Software Consultant",
       "website": "http://lightsonsoftware.com",
       "startDate": "2015-02-01",
-      "endDate": "2016-05-31",
+      "endDate": "2015-05-31",
       "summary": "Software consulting and development for various clients.",
       "highlights": [
         "Developed a Django application server that synced legal case and billing data between Capture.it (getcapture.it) and Clio (goclio.com).",
