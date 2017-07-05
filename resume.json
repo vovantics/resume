@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Stephen Vo Van",
+    "label": "Product Engineer",
+    "picture": "",
+    "email": "stephenvovan@gmail.com",
+    "phone": "(416) 300-0863",
+    "website": "http://stephenvovan.com",
+    "summary": "I strive to build software that makes daily life more productive for myself and everyone else.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vovantics",
+        "url": "https://github.com/vovantics"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Greater Known",
+      "position": "Founder",
+      "website": "http://greaterknown.com",
+      "startDate": "2016-010-01",
+      "summary": "Software consulting and development for various clients."
+    },
+    {
+      "company": "Lights On Software",
+      "position": "Software Consultant",
+      "website": "http://lightsonsoftware.com",
+      "startDate": "2015-02-01",
+      "endDate": "2016-05-31",
+      "summary": "Software consulting and development for various clients.",
+      "highlights": [
+        "Developed a Django application server that synced legal case and billing data between Capture.it (getcapture.it) and Clio (goclio.com).",
+        "Various enhancements to Suicide Girls (suicidegirls.com) Django application server: i18n, ad manager, scalability optimizations, bug fixes."
+      ]
+    },
+    {
+      "company": "Top Hat",
+      "position": "Back-End Team Lead",
+      "website": "http://tophat.com",
+      "startDate": "2013-05-01",
+      "endDate": "2014-10-31",
+      "summary": "Top Hat is a classroom engagement tool that makes learning fun and effective for students and professors.",
+      "highlights": [
+        "Developed and maintained RESTful JSON API endpoints using Django-Tastypie that's consumed by our web, iOS, and Android clients.",
+        "Enhanced web & SMS user registration in a way that reduced friction and increased sign-up conversions using Django-Tastypie API and Backbone.js.",
+        "Wrote a python module that merges student accounts, answers, grades, subscriptions, and orders.",
+        "Re-architected the front-end Backbone.js SPA with a layout manager, de-centralized routing, and route authorization.",
+        "Implemented dozens of user experiences with a consistent & maintainable design language through the composition of re-usable & scalable HTML/CSS UI components.",
+        "Built real-time notifications, sentiment polls, and announcements that reach students and professors in their browser, inbox, and phone using AWS SES and Twilio."
+      ]
+    },
+    {
+      "company": "TeamBuy.ca",
+      "position": "CTO",
+      "website": "http://teambuy.ca",
+      "startDate": "2010-04-01",
+      "endDate": "2013-01-31",
+      "summary": "TeamBuy is an e-commerce platform that facilitates the buying and selling of deals by leveraging local, social, mobile, and web technologies.",
+      "highlights": [
+        "Supervised recruitment, retention, and organization of all engineers and grew the tech department from 1 to 16.",
+        "Built the first version of the platform that included a native CMS, MySQL database, and PayPal, ExactTarget, SalesForce, JobVite, Facebook Connect, and Google Analytics integration.",
+        "Lead the design and implementation of re-designing a responsive website using HTML5 Boilerplate, Modernizr, Twitter Bootstrap, and JQuery.",
+        "Triaged critical bugs (e.g. data integrity, DOS attack, dog pile effect).",
+        "Collaborated with the founders and CEO to develop use cases and specifications that describe the implementation of the company’s services as a website, mobile website, and app.",
+        "Collaborated with the marketing, sales, customer service, and copy departments to assess and recommend technologies that support company organizational needs.",
+        "Communicated the company’s technology strategy to investors, management, and partners.",
+        "Established and supervised the Kanban & Scrum agile development framework.",
+        "Ensured the company’s internal technological processes and customer-facing services complied with web security standards and PCI.",
+        "Evaluated and identified appropriate technologies for delivering the company’s services."
+      ]
+    },
+    {
+      "company": "Accenture / CIBC",
+      "position": "S/W Developer",
+      "startDate": "2009-07-01",
+      "endDate": "2009-10-31",
+      "summary": "Prototyped a Windows C++ console application that implemented the Least Square Monte Carlo methodology by Longstaff & Schwartz for options valuation.",
+      "highlights": [
+        "Analyzed the requirements, crafted the application class diagram and proposed a suitable programming language to management.",
+        "Wrote the core set of matrix container classes using the boost library.",
+        "Wrote an XML parser and XPATH reader using the Xerces and Arabica library.",
+        "Automated the execution of all unit tests by developing a test harness using cppunit."
+      ]
+    },
+    {
+      "company": "Accenture / TD Bank",
+      "position": "Systems Integration Developer",
+      "startDate": "2009-01-01",
+      "endDate": "2009-06-30",
+      "summary": "Worked on a business banking web application using J2EE, Spring, JSP, Oracle, and JavaScript.",
+      "highlights": [
+        "Wrote a XML configuration driven module for printing credit application documents.",
+        "Reconciled the disparate requirements for a credit index calculation module and implemented it."
+      ]
+    },
+    {
+      "company": "Accenture / Morgan Stanley",
+      "position": "Systems Engineer",
+      "startDate": "2006-04-01",
+      "endDate": "2008-12-31",
+      "summary": "Worked on DataLink, a set of web applications and services that provide enterprise-wide market data to various divisions throughout the firm.",
+      "highlights": [
+        "Enhanced and fixed a Java SOAP service for a Portfolio Accounting system by eliminating all pricing discrepancies and improving processing time from 2 hours to 8 minutes.",
+        "Developed a Java web application that provided historical pricing data (8000 hits from 471 unique users per day), instrument information (19000 hits from 1704 unique users per day), and foreign exchange data (97000 hits from 1052 unique users per day).",
+        "Lead a testing team and built a test harness and effectively automated all regression tests.",
+        "As the client evangelist, wrote Perl CGI scripts to facilitate data discovery and maintained the wiki.",
+        "Identified performance issues by developing a Java web application to monitor latency.",
+        "Resolved client-facing support issues (Ex. application bugs, database failures, outages, power downs, maintenance on application dependencies) in a timely manner.",
+        "Conceived a SDLC schedule that facilitated weekly releases and implemented throughout multiple teams."
+      ]
+    },
+    {
+      "company": "TD Securities",
+      "position": "S/W Developer (Intern)",
+      "startDate": "2004-05-01",
+      "endDate": "2004-08-31",
+      "highlights": [
+        "Enhanced various UNIX shell scripts for a credit derivative system: data conversion, data inbound feed, ant build scripts, and added multithreading to existing algorithms."
+      ]
+    },
+    {
+      "company": "Canadian Broadcasting Corporation",
+      "position": "Programmer (Intern)",
+      "startDate": "2003-09-01",
+      "endDate": "2003-12-31",
+      "highlights": [
+        "Designed a web application for provisioning TV and radio production resources, presented it to management, and developed it using C#, .NET Framework, XML, and Oracle."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2002-09-01",
+      "endDate": "2006-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "SQL",
+        "PHP",
+        "Java",
+        "Perl",
+        "C",
+        "C++",
+        "HTML",
+        "CSS",
+        "JSON",
+        "XML"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Django",
+        "React.js",
+        "Rails",
+        "Ember.js",
+        "Flask",
+        "Express",
+        "Backbone.js",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "AWS",
+        "Heroku",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "keywords": [
+        "Linux (Ubuntu, RHEL)",
+        "OSX"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Critical thinker and problem solver",
+        "Hands-on, do-it-yourself type of person",
+        "Desire to learn new skills and adapt to changing technologies",
+        "Strong interpersonal skills along with ability to set and achieve goals"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
