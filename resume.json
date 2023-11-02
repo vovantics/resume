@@ -1,21 +1,22 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Stephen Vo Van",
-    "label": "Product Engineer",
-    "picture": "",
+    "label": "Software Engineer",
+    "image": "",
     "email": "stephenvovan@gmail.com",
     "phone": "(416) 300-0863",
     "website": "http://stephenvovan.com",
-    "summary": "I strive to build software that makes daily life more productive for myself and everyone else.",
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "vovantics",
-        "url": "https://github.com/vovantics"
-      }
-    ]
+    "summary": "Pragmatic software engineer competent in building and deploying web apps from the front-end to the back-end with a keen eye for UX and always optimizing for usability, scalability, security, and performance. Experienced in employing agile methodologies to facilitate project management, collaboration, and communication. When my teammates think of me I hope that they think of someone with integrity who is resourceful, dependable, and a clear communicator."
   },
   "work": [
+    {
+      "company": "FRNT Financial",
+      "position": "CTO",
+      "website": "https://www.frnt.io",
+      "startDate": "2018-09-01",
+      "summary": "FRNT Financial is an institutional capital markets and advisory platform focused on digital assets. FRNT aims to bridge the worlds of traditional and web based finance. Business lines include deliverable trading services, structured derivative products, merchant banking, advisory, consulting and principal investments."
+    },
     {
       "company": "Greater Known",
       "position": "Product Engineer / Consultant",
@@ -152,11 +153,9 @@
       "name": "Languages",
       "keywords": [
         "Python",
-        "Javascript",
+        "JavaScript",
         "SQL",
-        "PHP",
         "Java",
-        "Perl",
         "C",
         "C++",
         "HTML",
@@ -179,12 +178,11 @@
       "keywords": [
         "Django",
         "React.js",
+        "Next.js",
         "Rails",
         "Ember.js",
         "Flask",
-        "Express",
-        "Backbone.js",
-        "CodeIgniter"
+        "Express"
       ]
     },
     {
@@ -192,7 +190,8 @@
       "keywords": [
         "AWS",
         "Heroku",
-        "Docker"
+        "Docker",
+        "Kubernetes"
       ]
     },
     {
@@ -205,10 +204,12 @@
     {
       "name": "Soft Skills",
       "keywords": [
-        "Critical thinker and problem solver",
+        "Critical thinker and pragmatic problem solver",
         "Hands-on, do-it-yourself type of person",
         "Desire to learn new skills and adapt to changing technologies",
-        "Strong interpersonal skills along with ability to set and achieve goals"
+        "Team player with strong interpersonal skills",
+        "Resourceful and dependable",
+        "Clear communicator"
       ]
     }
   ],
@@ -216,6 +217,22 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Surfing"
+    },
+    {
+      "name": "Baking"
+    },
+    {
+      "name": "Tinkering"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Available upon request."
     }
   ]
 }

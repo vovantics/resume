@@ -1,34 +1,28 @@
 # resume
 
-Stevo's resume.
+Stevo's resume generator.
 
-## Getting Started
-
-Install the command-line tool:
+## Installation
 
 ```
-npm install -g resume-cli
-resume login
+$ npm i
 ```
 
 ## Usage
 
-### `resume serve`
+### Export as HTML
 
-Serve theme.
+```
+$ npm run export:html
+```
 
-### `resume publish --theme skills`
+### Export as PDF
 
-Publishes the resume with the `skills` theme.
+```
+$ npm run export:pdf
+```
 
-### `resume export [fileName]`
+### Install New Theme
 
-Exports your resume locally in a stylized HTML, Markdown, or PDF format.
-
-A list of available themes can be found here: http://jsonresume.org/themes/
-
-Please npm install the theme you wish to use locally before attempting to export it.
-
-Options:
-  - `--format <file type>` Example: `--format pdf`
-  - `--theme <name>` Example: `--theme flat`
+1. Browse themes here: http://jsonresume.org/themes/
+1. Pick and install theme: https://www.npmjs.com/search?q=jsonresume-theme

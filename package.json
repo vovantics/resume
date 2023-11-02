@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:html": "resumed render --theme jsonresume-theme-skills",
+    "export:pdf": "node index.js"
+  },
+  "dependencies": {
+    "jsonresume-theme-skills": "^1.0.0",
+    "puppeteer": "^20.7.4",
+    "resumed": "^3.0.1"
+  }
+}
